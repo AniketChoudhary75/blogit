@@ -1,7 +1,7 @@
 # Blogit-Aniket
 
-This is a blogging application inspired by Medium. The project is built from scratch using a modern tech stack and deployed on Netlify and Cloudflare Workers.
-https://blogit-app01.netlify.app/
+This is a blogging application inspired by Medium. The project is built from scratch using a modern tech stack and deployed on Vercel and Cloudflare Workers.
+[https://blogit-azure.vercel.app/]
 
 ## Features
 
@@ -79,7 +79,7 @@ Deploy the backend using Cloudflare Workers. Follow the Cloudflare Workers docum
 
 ### Frontend
 
-Deploy the frontend on Netlify. Follow the Vercel documentation for detailed deployment instructions.
+Deploy the frontend on Vercel. Follow the Vercel documentation for detailed deployment instructions.
 
 
 ## Contributing
