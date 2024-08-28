@@ -1,7 +1,7 @@
 # Blogit-Aniket
 
 This is a blogging application inspired by Medium. The project is built from scratch using a modern tech stack and deployed on Vercel and Cloudflare Workers.
-[https://blogit-azure.vercel.app/]
+https://blogit-azure.vercel.app/
 
 ## Features
 
